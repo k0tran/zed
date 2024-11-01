@@ -9153,6 +9153,7 @@ dependencies = [
  "editor",
  "gpui",
  "markdown_preview",
+ "picker",
  "repl",
  "search",
  "settings",
