@@ -870,6 +870,7 @@
   // }
   //
   "file_types": {
+    "CMake": ["CMakeLists.txt", "cmake"],
     "Plain Text": ["txt"],
     "JSON": ["flake.lock"],
     "JSONC": [
